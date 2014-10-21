@@ -1,0 +1,44 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+author=
+csum=
+ctime=1216259473
+host=127.0.0.1
+name=PmWiki.Downloads
+rev=11
+targets=
+text=%0a%0a%0a(Coming soon)%0a%0a%0a----%0a%25right%25''"Happiness is not so much in having as sharing. We make a living by what we get, but we make a life by what we give"'' - Norman MacEwan
+time=1399121828
+author:1399121828=
+diff:1399121828:1271930102:=1,6c1,6%0a%3c %0a%3c %0a%3c %0a%3c (Coming soon)%0a%3c %0a%3c %0a---%0a> !! Lectures%0a> %0a> %0a> (Coming soon).%0a> %0a> %0a
+host:1399121828=127.0.0.1
+author:1271930102=
+diff:1271930102:1271930087:=4,6c4,6%0a%3c (Coming soon).%0a%3c %0a%3c %0a---%0a> Computer Science and Internet Initiation Courses (C2I) : [[http://karimdahman.googlepages.com/|here]].%0a> %0a> %0a
+host:1271930102=::1
+author:1271930087=
+diff:1271930087:1255620441:=4,6c4,6%0a%3c Computer Science and Internet Initiation Courses (C2I) : [[http://karimdahman.googlepages.com/|here]].%0a%3c %0a%3c %0a---%0a> Computer Science and Internet Initiation Courses (C2I) : [[http://karimdahmen.googlepages.com/|here]].%0a> %0a> %0a
+host:1271930087=::1
+author:1255620441=
+diff:1255620441:1255619791:=8c8,15%0a%3c %25right%25''"Happiness is not so much in having as sharing. We make a living by what we get, but we make a life by what we give"'' - Norman MacEwan%0a\ No newline at end of file%0a---%0a> %25right%25''"Happiness is not so much in having as sharing. We make a living by what we get, but we make a life by what we give"'' - Norman MacEwan%0a> %25right%25(:html:)%0a> %3c!-- Begin Motigo Webstats counter code -->%0a> %3ca id="mws4674481" href="http://webstats.motigo.com/">%0a> %3cimg width="80" height="15" border="0" alt="Free counter and web stats" src="http://m1.webstats.motigo.com/n80x15.gif?id=AEdTsQ72fVhF0JnFBcqofLSJewAg" />%3c/a>%0a> %3cscript src="http://m1.webstats.motigo.com/c.js?id=4674481&amp;lang=FR&amp;i=3" type="text/javascript">%3c/script>%0a> %3c!-- End Motigo Webstats counter code -->%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1255620441=::1
+author:1255619791=
+diff:1255619791:1220894799:=8,15c8%0a%3c %25right%25''"Happiness is not so much in having as sharing. We make a living by what we get, but we make a life by what we give"'' - Norman MacEwan%0a%3c %25right%25(:html:)%0a%3c %3c!-- Begin Motigo Webstats counter code -->%0a%3c %3ca id="mws4674481" href="http://webstats.motigo.com/">%0a%3c %3cimg width="80" height="15" border="0" alt="Free counter and web stats" src="http://m1.webstats.motigo.com/n80x15.gif?id=AEdTsQ72fVhF0JnFBcqofLSJewAg" />%3c/a>%0a%3c %3cscript src="http://m1.webstats.motigo.com/c.js?id=4674481&amp;lang=FR&amp;i=3" type="text/javascript">%3c/script>%0a%3c %3c!-- End Motigo Webstats counter code -->%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> %25right%25''"Happiness is not so much in having as sharing. We make a living by what we get, but we make a life by what we give"'' - Norman MacEwan%0a\ No newline at end of file%0a
+host:1255619791=::1
+author:1220894799=
+diff:1220894799:1220894738:=0a1%0a> %0a3,6c4,6%0a%3c %0a%3c Computer Science and Internet Initiation Courses (C2I) : [[http://karimdahmen.googlepages.com/|here]].%0a%3c %0a%3c %0a---%0a> Find lectures [[http://karimdahmen.googlepages.com/|here]].%0a> %0a> %0a
+host:1220894799=127.0.0.1
+author:1220894738=
+diff:1220894738:1220894700:=2,3c2%0a%3c !! Lectures%0a%3c %0a---%0a> %0a
+host:1220894738=127.0.0.1
+author:1220894700=
+diff:1220894700:1216296413:=3,5d2%0a%3c Find lectures [[http://karimdahmen.googlepages.com/|here]].%0a%3c %0a%3c %0a
+host:1220894700=127.0.0.1
+author:1216296413=
+diff:1216296413:1216259481:=3c3%0a%3c ----%0a---%0a> %0a
+host:1216296413=127.0.0.1
+author:1216259481=
+diff:1216259481:1216259473:=1,3d0%0a%3c %0a%3c %0a%3c %0a
+host:1216259481=127.0.0.1
+author:1216259473=
+diff:1216259473:1216259473:=1d0%0a%3c %25right%25''"Happiness is not so much in having as sharing. We make a living by what we get, but we make a life by what we give"'' - Norman MacEwan%0a\ No newline at end of file%0a
+host:1216259473=127.0.0.1

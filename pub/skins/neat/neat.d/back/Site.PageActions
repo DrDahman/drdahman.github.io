@@ -1,0 +1,12 @@
+version=pmwiki-2.1.17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.2 (like Gecko)
+author=CarlosAB
+csum=
+ctime=1156464427
+host=127.0.0.1
+name=Neat.Action
+rev=2
+targets=Neat.Actions,Site.Search
+text=* [[{$ScriptUrl} | $[Home] ]]%0a(:if !authid :)%0a* [[{$FullName}?action=login|$[Login]]]%0a(:if authid :)%0a* [[{$FullName}?action=logout|$[Logout]]]%0a(:if:)%0a* %25item class=browse accesskey='$[ak_view]'%25[[{$FullName} | $[View] ]]%0a(:if auth edit:)%0a* %25item rel=nofollow class=edit accesskey='$[ak_edit]'%25[[{$FullName}?action=edit | $[Edit] ]]%0a(:if:)%0a(:if auth diff:)%0a* %25item rel=nofollow class=diff accesskey='$[ak_history]'%25[[{$FullName}?action=diff | $[History] ]]%0a(:if:)%0a* %25item rel=nofollow class=search accesskey='$[ak_search]'%25[[ Site/$[Search] | $[Search] ]]%0a(:if auth upload:)%0a* %25item rel=nofollow class=upload accesskey='$[ak_attach]'%25[[{$FullName}?action=upload | $[Attach] ]]%0a(:if:)%0a* %25item rel=nofollow class=print accesskey='$[ak_print]'%25[[{$FullName}?action=print | $[Print] ]]%0a* %25item rel=nofollow class=back accesskey='$[ak_back]'%25 [[{$FullName}?action=search?q=link={$FullName} | $[Backlinks] ]]
+time=1156791034
+author:1156791034=CarlosAB

@@ -1,0 +1,15 @@
+version=pmwiki-2.1.21 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (compatible; Konqueror/3.5; Linux 2.6.17-gentoo-r4; X11; i686; pt_BR) KHTML/3.5.2 (like Gecko)
+author=CarlosAB
+csum=
+ctime=1156465251
+host=127.0.0.1
+name=Site.PageTitle
+rev=68
+targets=Site.PageTitle
+text=(:div style='padding:0 0 15px 0;color:#999;background-color:transparent':)%0a$[Last modified on] {$LastModified} - %0a(:if exists {$FullName} :)%0a$[Archived in] {$Group} '''&raquo;''' [[{$Group}/{$Name} | {$Name}]] %0a(:ifend:)%0a(:if ! exists {$FullName} :)%0a- Página inexistente %0a(:ifend:)%0a(:if commentbox && ! group {$SiteGroup} :)%0a- $[Comments] {$PostCount}  %0a(:ifend:)%0a(:if enabled $PageHits :)%0a$[Hits] {$PageHits}%0a(:ifend:)%0a(:divend:)%0a
+time=1157567389
+author:1157567389=CarlosAB
+diff:1157567389:1157144781:=0a1,3%0a> (:div style='font-family:Trebuchet,Verdana,arial,sans serif;font-size:20px;margin: 0 0 2px 0;padding:0 0 2px 0;border-bottom:1px solid #ccc':)%0a> {$Title}%0a> (:divend:)%0a
+host:1157567389=127.0.0.1
+author:1157144781=CarlosAB

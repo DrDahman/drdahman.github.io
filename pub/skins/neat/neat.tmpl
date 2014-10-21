@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<head>
+
+<title>$WikiTitle - {$Group} &raquo; {$Title} - $Action</title>
+
+<link href="$SkinDirUrl/corners.css" rel="stylesheet" type="text/css"  media="screen"/>
+<link href="$SkinDirUrl/neat.css" rel="stylesheet" type="text/css"  media="screen"/>
+
+<!--HeaderText-->
+
+
+<link href="$SkinDirUrl/fixed.css" rel="stylesheet" type="text/css"  media="screen"/>
+<link href="$PubDirUrl/css/local.css" rel="stylesheet" type="text/css"  media="screen"/>
+
+<link rel='icon'  type='image/png' href='$SkinDirUrl/gfx/favicon.ico' />
+<link rel="shortcut icon" href="$SkinDirUrl/gfx/favicon.ico" />
+
+
+</head>
+
+<body> 
+
+<h1>$WikiTitle</h1>
+
+<div id='wiki-canvas-container' class='wiki-canvas-container'>
+
+<b class="corners canvastop">
+	<b class="canvastop1"></b>
+	<b class="canvastop2"></b>
+	<b class="canvastop3"></b>
+	<b class="canvastop4"></b>
+</b>
+
+<div id='wiki-canvas' class='wiki-canvas'>
+
+<div id='wiki-title-border' class='wiki-title-border'>
+
+<b class="corners headtop">
+	<b class="headtop1"></b>
+	<b class="headtop2"></b>
+	<b class="headtop3"></b>
+	<b class="headtop4"></b>
+</b>
+</div>
+
+<div id='wiki-title' class='wiki-title'>
+
+	<a href='{$ScriptUrl}'>
+		$WikiTitle
+	</a>
+	<h2>$WikiSubTitle</h2>
+
+</div>
+
+
+<div id='wiki-action' class='wiki-action'>
+	<!--wiki:{$SiteGroup}.SiteCommands -->
+	<!--wiki:{$Group}.ExtraCommands {$SiteGroup}.ExtraCommands -->
+	<!--wiki:{$Group}.PageActions {$SiteGroup}.PageActions -->
+</div>
+
+<div id='wiki-main' class='wiki-main'>
+	<h2 class='wiki-page-title'>{$Title}</h2>
+	<!--wiki:{$Group}.PageInfo  {$SiteGroup}.PageInfo-->
+	<!--PageText-->
+</div>
+
+<div id='wiki-menu' class='wiki-menu'>
+	<!--wiki:{$Group}.SideBar {$SiteGroup}.SideBar-->
+</div>
+
+<div id='wiki-foot-container' class='wiki-foot-container'>
+
+<div id='wiki-foot' class='wiki-foot'>
+	<!--wiki: {$SiteGroup}.SkinFoot-->
+</div>
+
+<b class="corners footbottom">
+	<b class="footbottom4"></b>
+	<b class="footbottom3"></b>
+	<b class="footbottom2"></b>
+	<b class="footbottom1"></b>
+</b>
+
+</div>
+
+</div>
+
+<b class="corners canvasbottom">
+	<b class="canvasbottom4"></b>
+	<b class="canvasbottom3"></b>
+	<b class="canvasbottom2"></b>
+	<b class="canvasbottom1"></b>
+</b>
+
+</div>
+
+</body>
+{$StopWatch}
+</html>

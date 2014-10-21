@@ -1,0 +1,15 @@
+2006-09-01  Carlos AB <carlos.ab@gmail.com>
+
+	* First release.
+
+2006-09-13  Carlos AB <carlos.ab@gmail.com>
+
+	* New files for "SiteCommand" and "ExtraCommand" in neat.d, automatically loaded by the skin template
+	* The title now is a link to home - {$ScriptUrl}. 
+	* The first <h1> tag is included before any <div>; the title shown in the skin is just a link and css rule for the h1 tag is just {disply:none;}. 
+	* Css rules are now inside *.css files . 
+	* Css file (fixed.css) for things that won't change dinamicaly with $HTMLStylesFmt. 
+	* Css selector names changed from classes to ids, beause much of the rules are not reusable. Classes can be used to change the skin further defining class selector rules inside pmwiki pages and also classes will not replace the declarations set trough an ID selector rule.
+	* Classes and ids used in the skin are now prefixed with "wiki-*" so names of classes/ids in and out of the skin (set inside pages) won't colide .
+	* Added a link html tag to include local.css after fixed.css.
+

@@ -1,0 +1,266 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+author=
+csum=
+host=127.0.0.1
+name=Site.SideBar
+passwdedit=@_site_edit
+rev=85
+targets=Main.HomePage,PmWiki.ReasearchInterests,PmWiki.TeachingActivities,PmWiki.ContactMe,PmWiki.CVEN,PmWiki.CVFR,PmWiki.MyBestQuotes,Site.SideBar
+text=* [[Main/Home Page]]%0a%0a%0a%25sidehead%25 %0a* [[PmWiki/Reasearch Interests | Research Interests]]%0a* [[PmWiki/Teaching Activities]]%0a* [[PmWiki/Contact Me]]%0a* [[http://doodle.com/karimdahman | Meet Me]]%0a* Full CV : [[PmWiki/CVEN | En]] - [[PmWiki/CVFR| Fr]]%0a%0a%0a%25sidehead%25 %0a* [[http://scholar.google.com/citations?user=mq_bZQwAAAAJ| My Google Scholar]]%0a* [[http://fr.linkedin.com/pub/karim-dahman/7/34a/12b/| My LinkedIn]]%0a* [[https://www.talentexchange.com/profile/karimdahman | My TalentExchange]]%0a* [[http://twitter.com/karimda| My Twitter]]%0a* [[http://www.citeulike.org/user/karimda| My CiteULike]]%0a%0a%25sidehead%25 %0a* [[PmWiki/My Best Quotes ]]%0a%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a
+time=1399121876
+author:1399121876=
+diff:1399121876:1399121866:=21,22c21,23%0a%3c %0a%3c %0a---%0a> * [[PmWiki/Downloads]]%0a> %0a> %0a
+host:1399121876=127.0.0.1
+author:1399121866=
+diff:1399121866:1399120991:=19a20%0a> * [[PmWiki/Me & Myself]]%0a
+host:1399121866=127.0.0.1
+author:1399120991=
+diff:1399120991:1399120954:=24c24,28%0a%3c %0a---%0a> %25sidehead%25 %0a> %0a> %25height=108px%25[[https://www.talentexchange.com/profile/karimdahman|http://www.loria.fr/~dahman/img/QR.png]]%0a> %0a> %0a
+host:1399120991=127.0.0.1
+author:1399120954=
+diff:1399120954:1362758517:=28c28,34%0a%3c %0a---%0a> %25height=47px%25[[http://www.univ-lorraine.fr|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a> %0a> %25height=50px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/loria.jpg]]%0a> %0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]]%0a> %0a> %0a
+host:1399120954=127.0.0.1
+author:1362758517=
+diff:1362758517:1362758507:=26,27c26,27%0a%3c %25height=108px%25[[https://www.talentexchange.com/profile/karimdahman|http://www.loria.fr/~dahman/img/QR.png]]%0a%3c %0a---%0a> %25height=110px%25[[https://www.talentexchange.com/profile/karimdahman|http://www.loria.fr/~dahman/img/QR.png]]%0a> %0a
+host:1362758517=127.0.0.1
+author:1362758507=
+diff:1362758507:1362758496:=26,27c26,27%0a%3c %25height=110px%25[[https://www.talentexchange.com/profile/karimdahman|http://www.loria.fr/~dahman/img/QR.png]]%0a%3c %0a---%0a> %25height=100px%25[[https://www.talentexchange.com/profile/karimdahman|http://www.loria.fr/~dahman/img/QR.png]]%0a> %0a
+host:1362758507=127.0.0.1
+author:1362758496=
+diff:1362758496:1362758482:=26,27c26,27%0a%3c %25height=100px%25[[https://www.talentexchange.com/profile/karimdahman|http://www.loria.fr/~dahman/img/QR.png]]%0a%3c %0a---%0a> %25height=47px%25[[https://www.talentexchange.com/profile/karimdahman|http://www.loria.fr/~dahman/img/QR.png]]%0a> %0a
+host:1362758496=127.0.0.1
+author:1362758482=
+diff:1362758482:1362758454:=26,27c26,27%0a%3c %25height=47px%25[[https://www.talentexchange.com/profile/karimdahman|http://www.loria.fr/~dahman/img/QR.png]]%0a%3c %0a---%0a> %25height=47px%25[[https://www.talentexchange.com/profile/karimdahman |QR.png]]%0a> %0a
+host:1362758482=127.0.0.1
+author:1362758454=
+diff:1362758454:1361292498:=26,27c26%0a%3c %25height=47px%25[[https://www.talentexchange.com/profile/karimdahman |QR.png]]%0a%3c %0a---%0a> %0a
+host:1362758454=127.0.0.1
+author:1361292498=
+diff:1361292498:1359989670:=15d14%0a%3c * [[https://www.talentexchange.com/profile/karimdahman | My TalentExchange]]%0a
+host:1361292498=127.0.0.1
+author:1359989670=
+diff:1359989670:1359989654:=14c14%0a%3c * [[http://fr.linkedin.com/pub/karim-dahman/7/34a/12b/| My LinkedIn]]%0a---%0a> * [[fr.linkedin.com/pub/karim-dahman/7/34a/12b/| My LinkedIn]]%0a
+host:1359989670=127.0.0.1
+author:1359989654=
+diff:1359989654:1358707096:=13,15d12%0a%3c * [[http://scholar.google.com/citations?user=mq_bZQwAAAAJ| My Google Scholar]]%0a%3c * [[fr.linkedin.com/pub/karim-dahman/7/34a/12b/| My LinkedIn]]%0a%3c * [[http://twitter.com/karimda| My Twitter]]%0a17,18d13%0a%3c %0a%3c %25sidehead%25 %0a
+host:1359989654=127.0.0.1
+author:1358707096=
+diff:1358707096:1358707057:=8c8%0a%3c * [[http://doodle.com/karimdahman | Meet Me]]%0a---%0a> * [[http://doodle.com/karimdahman/Meet Me]]%0a
+host:1358707096=127.0.0.1
+author:1358707057=
+diff:1358707057:1358707042:=7c7%0a%3c * [[PmWiki/Contact Me]]%0a---%0a> * [[PmWiki/Contact Me]]http://doodle.com/karimdahman%0a
+host:1358707057=127.0.0.1
+author:1358707042=
+diff:1358707042:1331729231:=7,8c7%0a%3c * [[PmWiki/Contact Me]]http://doodle.com/karimdahman%0a%3c * [[http://doodle.com/karimdahman/Meet Me]]%0a---%0a> * [[PmWiki/Contact Me]]%0a
+host:1358707042=127.0.0.1
+author:1331729231=
+diff:1331729231:1331728642:=20,21c20,21%0a%3c %25height=47px%25[[http://www.univ-lorraine.fr|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a%3c %0a---%0a> %25height=48px%25[[http://www.univ-lorraine.fr|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a> %0a
+host:1331729231=::1
+author:1331728642=
+diff:1331728642:1331728629:=20,21c20,21%0a%3c %25height=48px%25[[http://www.univ-lorraine.fr|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a%3c %0a---%0a> %25height=50px%25[[http://www.univ-lorraine.fr|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a> %0a
+host:1331728642=::1
+author:1331728629=
+diff:1331728629:1331722935:=20,21c20,21%0a%3c %25height=50px%25[[http://www.univ-lorraine.fr|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a%3c %0a---%0a> %25height=30px%25[[http://www.univ-lorraine.fr|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a> %0a
+host:1331728629=::1
+author:1331722935=
+diff:1331722935:1331722914:=20,21c20,21%0a%3c %25height=30px%25[[http://www.univ-lorraine.fr|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a%3c %0a---%0a> %25height=30px%25[[http://www.uhp-nancy.fr/|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a> %0a26c26,27%0a%3c %0a---%0a> %25height=85px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/ensem.jpg]]%0a> %0a
+host:1331722935=::1
+author:1331722914=
+diff:1331722914:1310548971:=20,21c20,21%0a%3c %25height=30px%25[[http://www.uhp-nancy.fr/|http://www.loria.fr/~dahman/img/logo-ul.jpg]]%0a%3c %0a---%0a> %25height=30px%25[[http://www.uhp-nancy.fr/|http://www.loria.fr/~dahman/img/logo_nu.gif]]%0a> %0a
+host:1331722914=::1
+author:1310548971=
+diff:1310548971:1310548950:=7c7%0a%3c * [[PmWiki/Contact Me]]%0a---%0a> * [[PmWiki/Contact]]%0a
+host:1310548971=::1
+author:1310548950=
+diff:1310548950:1310548897:=7c7%0a%3c * [[PmWiki/Contact]]%0a---%0a> * [[PmWiki/Contact Me]]%0a
+host:1310548950=::1
+author:1310548897=
+diff:1310548897:1310548883:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | En]] - [[PmWiki/CVFR| Fr]]%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] - [[PmWiki/CVFR| FR]]%0a> %0a> %0a
+host:1310548897=::1
+author:1310548883=
+diff:1310548883:1310548852:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] - [[PmWiki/CVFR| FR]]%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] - [[PmWiki/CVFR| FR]] (:%25newwin%25:)%0a> %0a> %0a
+host:1310548883=::1
+author:1310548852=
+diff:1310548852:1310548817:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] - [[PmWiki/CVFR| FR]] (:%25newwin%25:)%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] - [[PmWiki/CVFR| FR]] //%25newwin%25%0a> %0a> %0a
+host:1310548852=::1
+author:1310548817=
+diff:1310548817:1310548698:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] - [[PmWiki/CVFR| FR]] //%25newwin%25%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] - %25newwin%25[[PmWiki/CVFR| FR]]%0a> %0a> %0a
+host:1310548817=::1
+author:1310548698=
+diff:1310548698:1308223212:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] - %25newwin%25[[PmWiki/CVFR| FR]]%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] - %25newwin%25[[http://karim.dahman.netcv.org/ | FR]]%0a> %0a> %0a15,16c15,16%0a%3c * [[PmWiki/Downloads]]%0a%3c %0a---%0a> * [[PmWiki/Downloads ]]%0a> %0a
+host:1310548698=::1
+author:1308223212=
+diff:1308223212:1308223204:=22,23c22,23%0a%3c %25height=50px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/loria.jpg]]%0a%3c %0a---%0a> %25height=60px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/loria.jpg]]%0a> %0a
+host:1308223212=::1
+author:1308223204=
+diff:1308223204:1308223197:=22,23c22,23%0a%3c %25height=60px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/loria.jpg]]%0a%3c %0a---%0a> %25height=65px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/loria.jpg]]%0a> %0a
+host:1308223204=::1
+author:1308223197=
+diff:1308223197:1308223185:=22,23c22,23%0a%3c %25height=65px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/loria.jpg]]%0a%3c %0a---%0a> %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/loria.jpg]]%0a> %0a
+host:1308223197=::1
+author:1308223185=
+diff:1308223185:1308223160:=22,23c22,23%0a%3c %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/loria.jpg]]%0a%3c %0a---%0a> %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/Loria.jpg]]%0a> %0a
+host:1308223185=::1
+author:1308223160=
+diff:1308223160:1308169328:=22,23c22,23%0a%3c %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/Loria.jpg]]%0a%3c %0a---%0a> %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/Loria.png]]%0a> %0a
+host:1308223160=::1
+author:1308169328=
+diff:1308169328:1271929895:=1,3c1,3%0a%3c * [[Main/Home Page]]%0a%3c %0a%3c %0a---%0a> * [[Main/HomePage]]%0a> %0a> %0a
+host:1308169328=::1
+author:1271929895=
+diff:1271929895:1271333130:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] - %25newwin%25[[http://karim.dahman.netcv.org/ | FR]]%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] - %25newwin%25[[http://karim.dahmen.netcv.org/ | FR]]%0a> %0a> %0a20,27c20,27%0a%3c %25height=30px%25[[http://www.uhp-nancy.fr/|http://www.loria.fr/~dahman/img/logo_nu.gif]]%0a%3c %0a%3c %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/Loria.png]]%0a%3c %0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]]%0a%3c %0a%3c %25height=85px%25[[http://www.loria.fr/|http://www.loria.fr/~dahman/img/ensem.jpg]]%0a%3c %0a---%0a> %25height=30px%25[[http://www.uhp-nancy.fr/|http://www.loria.fr/~dahmen/img/logo_nu.gif]]%0a> %0a> %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/Loria.png]]%0a> %0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahmen/img/Score.png]]%0a> %0a> %25height=85px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a> %0a
+host:1271929895=::1
+author:1271333130=
+diff:1271333130:1271333121:=26,27c26,27%0a%3c %25height=85px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a%3c %0a---%0a> %25height=80px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a> %0a
+host:1271333130=::1
+author:1271333121=
+diff:1271333121:1271333101:=26,27c26,27%0a%3c %25height=80px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a%3c %0a---%0a> %25height=90px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a> %0a
+host:1271333121=::1
+author:1271333101=
+diff:1271333101:1271333086:=24,25c24,25%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahmen/img/Score.png]]%0a%3c %0a---%0a> %25height=90px%25[[http://score.loria.fr/|http://www.loria.fr/~dahmen/img/Score.png]]%0a> %0a
+host:1271333101=::1
+author:1271333086=
+diff:1271333086:1271333052:=24,25c24,25%0a%3c %25height=90px%25[[http://score.loria.fr/|http://www.loria.fr/~dahmen/img/Score.png]]%0a%3c %0a---%0a> %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/Score.png]]%0a> %0a
+host:1271333086=::1
+author:1271333052=
+diff:1271333052:1271332961:=24,25d23%0a%3c %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/Score.png]]%0a%3c %0a
+host:1271333052=::1
+author:1271332961=
+diff:1271332961:1222271034:=
+host:1271332961=::1
+author:1222271034=
+diff:1222271034:1222271025:=22,23c22,23%0a%3c %25height=75px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/Loria.png]]%0a%3c %0a---%0a> %25height=70px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/Loria.png]]%0a> %0a
+host:1222271034=127.0.0.1
+author:1222271025=
+diff:1222271025:1222271016:=22,23c22,23%0a%3c %25height=70px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/Loria.png]]%0a%3c %0a---%0a> %25height=60px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/Loria.png]]%0a> %0a
+host:1222271025=127.0.0.1
+author:1222271016=
+diff:1222271016:1222271010:=24,25c24,25%0a%3c %25height=90px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a%3c %0a---%0a> %25height=80px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a> %0a
+host:1222271016=127.0.0.1
+author:1222271010=
+diff:1222271010:1222270998:=24,25c24,25%0a%3c %25height=80px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a%3c %0a---%0a> %25height=20px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a> %0a
+host:1222271010=127.0.0.1
+author:1222270998=
+diff:1222270998:1222270990:=24,25c24,25%0a%3c %25height=20px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a%3c %0a---%0a> %25height=60px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a> %0a
+host:1222270998=127.0.0.1
+author:1222270990=
+diff:1222270990:1220889035:=24,25d23%0a%3c %25height=60px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/ensem.jpg]]%0a%3c %0a
+host:1222270990=127.0.0.1
+author:1220889035=
+diff:1220889035:1220454029:=17,23c17%0a%3c %25sidehead%25 %0a%3c %0a%3c %0a%3c %25height=30px%25[[http://www.uhp-nancy.fr/|http://www.loria.fr/~dahmen/img/logo_nu.gif]]%0a%3c %0a%3c %25height=60px%25[[http://www.loria.fr/|http://www.loria.fr/~dahmen/img/Loria.png]]%0a%3c %0a---%0a> %0a
+host:1220889035=127.0.0.1
+author:1220454029=
+diff:1220454029:1220283861:=5c5%0a%3c * [[PmWiki/Reasearch Interests | Research Interests]]%0a---%0a> * [[PmWiki/FAQ | Research Interests]]%0a
+host:1220454029=127.0.0.1
+author:1220283861=
+diff:1220283861:1220283618:=18a19,28%0a> %0a> (:lastfm:)%0a>   type (chart, radio, playlist, quilt)%0a>   user %0a>   color/colour (red, blue, black, grey)%0a>   chart (recent, topartists, toptracks, weeklyartists, weeklytracks)%0a>   quilt (album, artist)%0a>   orient (horizontal, vertical)%0a>   size (small, medium, large for quilts; regular, mini for radios)%0a>   autostart ( 1 for an autostarting radio )%0a
+host:1220283861=127.0.0.1
+author:1220283618=
+diff:1220283618:1220283567:=20,28c20%0a%3c (:lastfm:)%0a%3c   type (chart, radio, playlist, quilt)%0a%3c   user %0a%3c   color/colour (red, blue, black, grey)%0a%3c   chart (recent, topartists, toptracks, weeklyartists, weeklytracks)%0a%3c   quilt (album, artist)%0a%3c   orient (horizontal, vertical)%0a%3c   size (small, medium, large for quilts; regular, mini for radios)%0a%3c   autostart ( 1 for an autostarting radio )%0a---%0a> (:lastfm:)%0a\ No newline at end of file%0a
+host:1220283618=127.0.0.1
+author:1220283567=
+diff:1220283567:1220283550:=
+host:1220283567=127.0.0.1
+author:1220283550=
+diff:1220283550:1220282889:=20c20%0a%3c (:lastfm:)%0a\ No newline at end of file%0a---%0a> (:deliciousbadge:)%0a\ No newline at end of file%0a
+host:1220283550=127.0.0.1
+author:1220282889=
+diff:1220282889:1220280864:=18,20c18%0a%3c %25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a%3c %0a%3c (:deliciousbadge:)%0a\ No newline at end of file%0a---%0a> %25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a
+host:1220282889=127.0.0.1
+author:1220280864=
+diff:1220280864:1220280845:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] - %25newwin%25[[http://karim.dahmen.netcv.org/ | FR]]%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] - [[%25newwin%25 http://karim.dahmen.netcv.org/ | FR]]%0a> %0a> %0a
+host:1220280864=127.0.0.1
+author:1220280845=
+diff:1220280845:1220280832:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] - [[%25newwin%25 http://karim.dahmen.netcv.org/ | FR]]%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] - [[%25newwin%25http://karim.dahmen.netcv.org/ | FR]]%0a> %0a> %0a
+host:1220280845=127.0.0.1
+author:1220280832=
+diff:1220280832:1220276228:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] - [[%25newwin%25http://karim.dahmen.netcv.org/ | FR]]%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] - [[http://karim.dahmen.netcv.org/ | FR]]%0a> %0a> %0a
+host:1220280832=127.0.0.1
+author:1220276228=
+diff:1220276228:1216312416:=13c13%0a%3c * [[PmWiki/Me & Myself]]%0a---%0a> * [[PmWiki/Myself & Me]]%0a
+host:1220276228=127.0.0.1
+author:1216312416=
+diff:1216312416:1216312404:=15,17c15,17%0a%3c * [[PmWiki/Downloads ]]%0a%3c %0a%3c %0a---%0a> * [[PmWiki/My Downloads ]]%0a> %0a> %0a
+host:1216312416=127.0.0.1
+author:1216312404=
+diff:1216312404:1216312122:=15,17c15,17%0a%3c * [[PmWiki/My Downloads ]]%0a%3c %0a%3c %0a---%0a> * [[PmWiki/Downloads ]]%0a> %0a> %0a
+host:1216312404=127.0.0.1
+author:1216312122=
+diff:1216312122:1216312096:=13c13%0a%3c * [[PmWiki/Myself & Me]]%0a---%0a> * [[PmWiki/Me & Myself]]%0a
+host:1216312122=127.0.0.1
+author:1216312096=
+diff:1216312096:1216312042:=13c13%0a%3c * [[PmWiki/Me & Myself]]%0a---%0a> * [[PmWiki/Myself & Me]]%0a
+host:1216312096=127.0.0.1
+author:1216312042=
+diff:1216312042:1216311943:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] - [[http://karim.dahmen.netcv.org/ | FR]]%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | EN]] [[http://karim.dahmen.netcv.org/ | FR]]%0a> %0a> %0a
+host:1216312042=127.0.0.1
+author:1216311943=
+diff:1216311943:1216296152:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | EN]] [[http://karim.dahmen.netcv.org/ | FR]]%0a%3c %0a%3c %0a---%0a> * Full CV : [[PmWiki/CVEN | En]] [[http://karim.dahmen.netcv.org/ | Fr]]%0a> %0a> %0a
+host:1216311943=127.0.0.1
+author:1216296152=
+diff:1216296152:1216296129:=9,10c9,10%0a%3c %0a%3c %0a---%0a> REFEREES%0a> %0a
+host:1216296152=127.0.0.1
+author:1216296129=
+diff:1216296129:1216288737:=5c5%0a%3c * [[PmWiki/FAQ | Research Interests]]%0a---%0a> * [[PmWiki/FAQ | Research Activities]]%0a
+host:1216296129=127.0.0.1
+author:1216288737=
+diff:1216288737:1216260830:=8,10c8,10%0a%3c * Full CV : [[PmWiki/CVEN | En]] [[http://karim.dahmen.netcv.org/ | Fr]]%0a%3c REFEREES%0a%3c %0a---%0a> * [[http://karim.dahmen.netcv.org/ | Full CV]]%0a> %0a> %0a
+host:1216288737=127.0.0.1
+author:1216260830=
+diff:1216260830:1216260675:=5c5%0a%3c * [[PmWiki/FAQ | Research Activities]]%0a---%0a> * [[PmWiki/FAQ | Research Interest]]%0a
+host:1216260830=127.0.0.1
+author:1216260675=
+diff:1216260675:1216260535:=8,10c8,10%0a%3c * [[http://karim.dahmen.netcv.org/ | Full CV]]%0a%3c %0a%3c %0a---%0a> * [[http://karim.dahmen.netcv.org/ | Full CV]] [[http://karim.dahmen.netcv.org/ | (PDF)]]%0a> %0a> %0a
+host:1216260675=127.0.0.1
+author:1216260535=
+diff:1216260535:1216259437:=8,10c8,10%0a%3c * [[http://karim.dahmen.netcv.org/ | Full CV]] [[http://karim.dahmen.netcv.org/ | (PDF)]]%0a%3c %0a%3c %0a---%0a> * [[http://karim.dahmen.netcv.org/ | Full CV]]%0a> %0a> %0a
+host:1216260535=127.0.0.1
+author:1216259437=
+diff:1216259437:1216258100:=15,17c15,16%0a%3c * [[PmWiki/Downloads ]]%0a%3c %0a%3c %0a---%0a> %0a> %0a
+host:1216259437=127.0.0.1
+author:1216258100=
+diff:1216258100:1216258079:=13c13%0a%3c * [[PmWiki/Myself & Me]]%0a---%0a> * [[PmWiki/Myself and Me]]%0a
+host:1216258100=127.0.0.1
+author:1216258079=
+diff:1216258079:1216257477:=13c13%0a%3c * [[PmWiki/Myself and Me]]%0a---%0a> * [[PmWiki/Myself & Me]]%0a
+host:1216258079=127.0.0.1
+author:1216257477=
+diff:1216257477:1216254181:=13,16c13,16%0a%3c * [[PmWiki/Myself & Me]]%0a%3c * [[PmWiki/My Best Quotes ]]%0a%3c %0a%3c %0a---%0a> * [[Cookbook:CookbookBasics | Myself & Me]]%0a> * [[Cookbook:Skins | My Best Quotes ]]%0a> %0a> %0a
+host:1216257477=127.0.0.1
+author:1216254181=
+diff:1216254181:1216253607:=8,10c8,10%0a%3c * [[http://karim.dahmen.netcv.org/ | Full CV]]%0a%3c %0a%3c %0a---%0a> * [[PmWiki/Full CV]]%0a> %0a> %0a
+host:1216254181=127.0.0.1
+author:1216253607=
+diff:1216253607:1216253442:=13c13%0a%3c * [[Cookbook:CookbookBasics | Myself & Me]]%0a---%0a> * [[Cookbook:CookbookBasics | Me & Myself ]]%0a
+host:1216253607=127.0.0.1
+author:1216253442=
+diff:1216253442:1216253406:=2,4d1%0a%3c %0a%3c %0a%3c %25sidehead%25 %0a11c8%0a%3c %25sidehead%25 %0a---%0a> %25sidehead%25 Other%0a
+host:1216253442=127.0.0.1
+author:1216253406=
+diff:1216253406:1216253361:=1a2%0a> %0a
+host:1216253406=127.0.0.1
+author:1216253361=
+diff:1216253361:1216253341:=2a3%0a> %0a
+host:1216253361=127.0.0.1
+author:1216253341=
+diff:1216253341:1216253319:=9d8%0a%3c %0a
+host:1216253341=127.0.0.1
+author:1216253319=
+diff:1216253319:1216253164:=2,3c2,7%0a%3c %0a%3c %0a---%0a> * [[Main/WikiSandbox]]%0a> %0a> %25sidehead%25 [[PmWiki/PmWiki]]%0a> * [[PmWiki/Initial Setup Tasks]]  %0a> * [[PmWiki/Basic Editing]]%0a> * [[PmWiki/Documentation Index]]%0a7,8c11,12%0a%3c * [[PmWiki/Full CV]]%0a%3c %0a---%0a> * [[PmWiki/Full Curriculum Vitae]]%0a> %0a
+host:1216253319=127.0.0.1
+author:1216253164=
+diff:1216253164:1216252602:=8,12c8,12%0a%3c * [[PmWiki/FAQ | Research Interest]]%0a%3c * [[PmWiki/Teaching Activities]]%0a%3c * [[PmWiki/Contact Me]]%0a%3c * [[PmWiki/Full Curriculum Vitae]]%0a%3c %0a---%0a> * [[PmWiki/FAQ | PmWiki FAQ ]]%0a> * [[PmWiki/PmWikiPhilosophy]]%0a> * [[PmWiki/Release Notes]]%0a> * [[PmWiki/ChangeLog]]%0a> %0a14d13%0a%3c * [[http://www.citeulike.org/user/karimda| My CiteULike]]%0a16,18c15,18%0a%3c * [[Cookbook:Skins | My Best Quotes ]]%0a%3c %0a%3c %0a---%0a> * [[Cookbook:Skins | Skins (themes) ]]%0a> * [[PITS:PITS | PITS (issue tracking) ]]%0a> * [[PmWiki/Mailing Lists]]%0a> %0a
+host:1216253164=127.0.0.1
+author:1216252602=
+diff:1216252602:1216252554:=14c14%0a%3c * [[Cookbook:CookbookBasics | Me & Myself ]]%0a---%0a> * [[Cookbook:CookbookBasics | Cookbook (addons) ]]%0a
+host:1216252602=127.0.0.1
+author:1216252554=
+diff:1216252554:1216252520:=13c13%0a%3c %25sidehead%25 Other%0a---%0a> %25sidehead%25 [Other ]%0a
+host:1216252554=127.0.0.1
+author:1216252520=
+diff:1216252520:1216252342:=13c13%0a%3c %25sidehead%25 [Other ]%0a---%0a> %25sidehead%25 [[Other ]]%0a
+host:1216252520=127.0.0.1
+author:1216252342=
+diff:1216252342:1125550800:=13c13%0a%3c %25sidehead%25 [[Other ]]%0a---%0a> %25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a
+host:1216252342=127.0.0.1

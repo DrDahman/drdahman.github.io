@@ -1,0 +1,76 @@
+
+b.corners {
+display:block;
+}
+
+b.corners *{
+display:block;
+height: 1px;
+line-height:1px;
+font-size: 1px;
+overflow:hidden;
+border-style:solid;
+border-width: 0 1px
+}
+/* --------------HEAD AND FOOT CORNERS-----------------*/
+.headtop {
+background: #fff none repeat scroll 0%;
+margin-left: 0px;
+margin-right: 0px;
+-moz-background-clip: initial;
+-moz-background-origin: initial;
+-moz-background-inline-policy: initial;
+margin-bottom: -5px;
+}
+
+	b.headtop1{margin: 0 3px;border-width: 0 2px;border-color: #bbb; background-color: #369;}
+	b.headtop2{margin: 0 2px;border-color: #ccc; background-color: #369}
+	b.headtop3{margin: 0 1px;border-color: #ccc; background-color: #369}
+	b.headtop4{height: 2px;border-color: #bbb; background-color: #369}
+
+.footbottom {
+background: #fff none repeat scroll 0%;
+margin-left: 0px;
+margin-right: 0px;
+-moz-background-clip: initial;
+-moz-background-origin: initial;
+-moz-background-inline-policy: initial;
+margin-top: -5px;
+}
+
+	b.footbottom4{height:2px;border-color: #ccc; background-color: #69c}
+	b.footbottom3{margin: 0 1px;border-color: #bbb; background-color: #69c}
+	b.footbottom2{margin: 0 2px;border-color: #bbb; background-color: #69c}
+	b.footbottom1{margin: 0 3px;border-width:0 2px;border-color: #ccc; background-color: #69c}
+/* --------------CANVAS CORNERS-----------------*/
+.canvastop {
+background: #aaa none repeat scroll 0%;
+margin-left: 0px;
+margin-right: 0px;
+-moz-background-clip: initial;
+-moz-background-origin: initial;
+-moz-background-inline-policy: initial;
+margin-bottom: -5px;
+}
+
+	b.canvastop1{margin: 0 3px;border-width: 0 2px;border-color: #bbb; background-color: #fff;}
+	b.canvastop2{margin: 0 2px;border-color: #ccc; background-color: #fff;}
+	b.canvastop3{margin: 0 1px;border-color: #ccc ; background-color: #fff;}
+	b.canvastop4{height: 2px;border-color: #bbb; background-color: #fff;}
+
+.canvasbottom {
+background: #aaa none repeat scroll 0%;
+margin-left: 0px;
+margin-right: 0px;
+-moz-background-clip: initial;
+-moz-background-origin: initial;
+-moz-background-inline-policy: initial;
+margin-top: -5px;
+}
+
+	b.canvasbottom4{height:2px;border-color: #bbb; background-color: #fff;}
+	b.canvasbottom3{margin: 0 1px;border-color: #ccc; background-color: #fff}
+	b.canvasbottom2{margin: 0 2px;border-color: #ccc; background-color: #fff}
+	b.canvasbottom1{margin: 0 3px;border-width:0 2px;border-color: #bbb; background-color: #fff}
+
+

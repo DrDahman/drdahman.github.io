@@ -1,0 +1,4 @@
+version=pmwiki-2.1.21 ordered=1 urlencoded=1
+author=
+name=Site.PageInfo
+text=(:div class='wiki-page-info':)%0a$[Last modified on] {$NeatLastMod}%0a(:if exists {$FullName} :)%0a- $[Filed in] {$Group} '''&raquo;''' [[{$Group}/{$Name} | {$Name}]] %0a(:ifend:)%0a(:if ! exists {$FullName} :)%0a- $[Page missing] %0a(:ifend:)%0a(:if commentbox && ! group {$SiteGroup} :)%0a- $[Comments] {$PostCount}  %0a(:ifend:)%0a(:if enabled $PageHits :)%0a- $[Hits] {$PageHits}%0a(:ifend:)%0a(:divend:)%0a

@@ -1,0 +1,4 @@
+version=pmwiki-2.1.21 ordered=1 urlencoded=1
+author=
+name=Site.SiteCommands
+text=* [[{$ScriptUrl} | $[Home] ]]%0a(:if !authid :)%0a* [[{$FullName}?action=login|$[Login]]]%0a(:if authid :)%0a* [[{$FullName}?action=logout|$[Logout]]]%0a(:if:)

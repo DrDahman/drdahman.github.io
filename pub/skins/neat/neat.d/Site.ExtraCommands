@@ -1,0 +1,4 @@
+version=pmwiki-2.1.21 ordered=1 urlencoded=1
+author=
+name=Site.ExtraCommands
+text=* %25item rel=nofollow class=search accesskey='$[ak_search]%25[[{$SiteGroup}/$[Search]]]%0a* %25item rel=nofollow class=menu accesskey='$[ak_menu]%25[[ #wiki-menu | $[Menu] ]] [[#wiki-top]]%0a* %25item rel=bookmark class=recent accesskey='$[ak_changes]'%25[[{$SiteGroup}/RecentChanges | $[Changes]]]

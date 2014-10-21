@@ -1,0 +1,135 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+author=
+csum=
+ctime=1220276235
+host=127.0.0.1
+name=PmWiki.MeAmpMyself
+rev=41
+targets=
+text=(:title Me & Myself :)%0a%0a>>lframe font-size:biggger%3c%3c%0a%25height=250px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=250px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=250px%25http://www.loria.fr/~dahman/img/diving.jpg %25height=250px%25http://www.loria.fr/~dahman/img/kawa.png %25height=250px%25http://www.loria.fr/~dahman/img/soutenance.jpg%0a>>%3c%3c%0a%0a%0a!! My Logos%0a%0a%25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png"Proposal for the SCORE Team"]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png"Proposal for the SCORE Team"]] %25height=95px%25[[http://www.loria.fr/~dahman/img/a.jpg| http://www.loria.fr/~dahman/img/a.jpg"Proposal for the Loria Laboratory"]] %25height=95px%25[[http://www.loria.fr/~dahman/img/d.jpg| http://www.loria.fr/~dahman/img/d.jpg"Proposal for the Loria Laboratory"]]%0a%0a!! The beginning and the end%0a%0a----%0a%0a%25right%25''"In every conceivable manner, the family is link to our past, bridge to our future"'' -  Alex Haley
+time=1358680580
+title=Me &amp; Myself 
+author:1358680580=
+diff:1358680580:1358680565:=4c4%0a%3c %25height=250px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=250px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=250px%25http://www.loria.fr/~dahman/img/diving.jpg %25height=250px%25http://www.loria.fr/~dahman/img/kawa.png %25height=250px%25http://www.loria.fr/~dahman/img/soutenance.jpg%0a---%0a> %25height=250px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=250px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=250px%25http://www.loria.fr/~dahman/img/diving.jpg %25height=250px%25http://www.loria.fr/~dahman/img/kawa.png %25height=250px%25http://www.loria.fr/~dahman/img/soutenance.png%0a
+host:1358680580=127.0.0.1
+author:1358680565=
+diff:1358680565:1352725409:=4c4%0a%3c %25height=250px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=250px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=250px%25http://www.loria.fr/~dahman/img/diving.jpg %25height=250px%25http://www.loria.fr/~dahman/img/kawa.png %25height=250px%25http://www.loria.fr/~dahman/img/soutenance.png%0a---%0a> %25height=250px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=250px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=250px%25http://www.loria.fr/~dahman/img/diving.jpg %25height=250px%25http://www.loria.fr/~dahman/img/kawa.png%0a
+host:1358680565=127.0.0.1
+author:1352725409=
+diff:1352725409:1331730008:=4c4%0a%3c %25height=250px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=250px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=250px%25http://www.loria.fr/~dahman/img/diving.jpg %25height=250px%25http://www.loria.fr/~dahman/img/kawa.png%0a---%0a> %25height=250px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=250px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=250px%25http://www.loria.fr/~dahman/img/diving.jpg %25height=250px%25http://www.loria.fr/~dahman/img/honda.jpg%0a
+host:1352725409=127.0.0.1
+author:1331730008=
+diff:1331730008:1331729207:=4c4%0a%3c %25height=250px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=250px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=250px%25http://www.loria.fr/~dahman/img/diving.jpg %25height=250px%25http://www.loria.fr/~dahman/img/honda.jpg%0a---%0a> %25height=300px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=300px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=300px%25http://www.loria.fr/~dahman/img/diving.jpg%0a
+host:1331730008=::1
+author:1331729207=
+diff:1331729207:1331729193:=4c4%0a%3c %25height=300px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing" %25height=300px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel" %25height=300px%25http://www.loria.fr/~dahman/img/diving.jpg%0a---%0a> %25height=300px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"%25height=300px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel"%25height=300px%25http://www.loria.fr/~dahman/img/diving.jpg%0a
+host:1331729207=::1
+author:1331729193=
+diff:1331729193:1331729176:=4c4%0a%3c %25height=300px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"%25height=300px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel"%25height=300px%25http://www.loria.fr/~dahman/img/diving.jpg%0a---%0a> %25height=350px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"%25height=350px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel"%25height=350px%25http://www.loria.fr/~dahman/img/diving.jpg%0a
+host:1331729193=::1
+author:1331729176=
+diff:1331729176:1331729167:=6,7c6,7%0a%3c %0a%3c %0a---%0a> >>cframe font-size:biggger%3c%3c%0a> %0a
+host:1331729176=::1
+author:1331729167=
+diff:1331729167:1331729137:=4c4%0a%3c %25height=350px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"%25height=350px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel"%25height=350px%25http://www.loria.fr/~dahman/img/diving.jpg%0a---%0a> %25height=350px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"%25height=350px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel"%0a7a8,11%0a> >>%3c%3c%0a> >>rframe font-size:biggger%3c%3c%0a> %25height=350px%25[[http://www.loria.fr/~dahman/img/diving.jpg|http://www.loria.fr/~dahman/img/diving.jpg"Diving"]]%0a> >>%3c%3c%0a
+host:1331729167=::1
+author:1331729137=
+diff:1331729137:1331729125:=4c4,5%0a%3c %25height=350px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"%25height=350px%25http://www.loria.fr/~dahman/img/sea.jpg"Travel"%0a---%0a> %25height=350px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"%0a> %25height=350px%25[[http://www.loria.fr/~dahman/img/sea.jpg"Travel"|]]%0a
+host:1331729137=::1
+author:1331729125=
+diff:1331729125:1331729060:=4c4%0a%3c %25height=350px%25http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"%0a---%0a> %25height=350px%25[[http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"|]]%0a
+host:1331729125=::1
+author:1331729060=
+diff:1331729060:1331729043:=4,5c4,5%0a%3c %25height=350px%25[[http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"|]]%0a%3c %25height=350px%25[[http://www.loria.fr/~dahman/img/sea.jpg"Travel"|]]%0a---%0a> %25height=350px%25[[http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a> %25height=350px%25[[http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a
+host:1331729060=::1
+author:1331729043=
+diff:1331729043:1331729022:=4,5c4,5%0a%3c %25height=350px%25[[http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a%3c %25height=350px%25[[http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a---%0a> %25height=350px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a> %25height=350px%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a
+host:1331729043=::1
+author:1331729022=
+diff:1331729022:1331729009:=5d4%0a%3c %25height=350px%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a8c7%0a%3c %0a---%0a> %25height=350px%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a
+host:1331729022=::1
+author:1331729009=
+diff:1331729009:1331728944:=4c4%0a%3c %25height=350px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a---%0a> %25height=400px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a6,11c6,8%0a%3c >>cframe font-size:biggger%3c%3c%0a%3c %25height=350px%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a%3c >>%3c%3c%0a%3c >>rframe font-size:biggger%3c%3c%0a%3c %25height=350px%25[[http://www.loria.fr/~dahman/img/diving.jpg|http://www.loria.fr/~dahman/img/diving.jpg"Diving"]]%0a%3c >>%3c%3c%0a---%0a> %25height=400px%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a> %25height=400px%25[[http://www.loria.fr/~dahman/img/diving.jpg|http://www.loria.fr/~dahman/img/diving.jpg"Diving"]]%0a> %0a
+host:1331729009=::1
+author:1331728944=
+diff:1331728944:1331728880:=3d2%0a%3c >>lframe font-size:biggger%3c%3c%0a5c4%0a%3c >>%3c%3c%0a---%0a> %0a
+host:1331728944=::1
+author:1331728880=
+diff:1331728880:1331728867:=5,7c5,7%0a%3c %25height=400px%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a%3c %25height=400px%25[[http://www.loria.fr/~dahman/img/diving.jpg|http://www.loria.fr/~dahman/img/diving.jpg"Diving"]]%0a%3c %0a---%0a> %25height=48px%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a> %25height=48px%25[[http://www.loria.fr/~dahman/img/diving.jpg|http://www.loria.fr/~dahman/img/diving.jpg"Diving"]]%0a> %0a
+host:1331728880=::1
+author:1331728867=
+diff:1331728867:1331728857:=3,4c3,4%0a%3c %25height=400px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a%3c %0a---%0a> %25height=200px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a> %0a
+host:1331728867=::1
+author:1331728857=
+diff:1331728857:1331728848:=3,4c3,4%0a%3c %25height=200px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a%3c %0a---%0a> %25height=80px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a> %0a
+host:1331728857=::1
+author:1331728848=
+diff:1331728848:1331728839:=4d3%0a%3c %0a
+host:1331728848=::1
+author:1331728839=
+diff:1331728839:1331728828:=3c3%0a%3c %25height=80px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a---%0a> %25height=70px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a
+host:1331728839=::1
+author:1331728828=
+diff:1331728828:1331728820:=3c3%0a%3c %25height=70px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a---%0a> %25height=48px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a
+host:1331728828=::1
+author:1331728820=
+diff:1331728820:1331720895:=3,6c3,6%0a%3c %25height=48px%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a%3c %25height=48px%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a%3c %25height=48px%25[[http://www.loria.fr/~dahman/img/diving.jpg|http://www.loria.fr/~dahman/img/diving.jpg"Diving"]]%0a%3c %0a---%0a> %25left%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a> %25center%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a> %25right%25[[http://www.loria.fr/~dahman/img/diving.jpg|http://www.loria.fr/~dahman/img/diving.jpg"Diving"]]%0a> %0a
+host:1331728820=::1
+author:1331720895=
+diff:1331720895:1310548631:=3,6c3,4%0a%3c %25left%25[[http://www.loria.fr/~dahman/img/rowing.jpg|http://www.loria.fr/~dahman/img/rowing.jpg"Rowing"]]%0a%3c %25center%25[[http://www.loria.fr/~dahman/img/sea.jpg|http://www.loria.fr/~dahman/img/sea.jpg"Travel"]]%0a%3c %25right%25[[http://www.loria.fr/~dahman/img/diving.jpg|http://www.loria.fr/~dahman/img/diving.jpg"Diving"]]%0a%3c %0a---%0a> %25center%25[[http://www.loria.fr/~dahman/img/Eiffel-full.jpeg | http://www.loria.fr/~dahman/img/Eiffel-medium.jpeg"Croque Tour Eiffel"]]|A 325 meter brownie !!%0a> %0a
+host:1331720895=::1
+author:1310548631=
+diff:1310548631:1310548611:=7,8c7,8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png"Proposal for the SCORE Team"]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png"Proposal for the SCORE Team"]] %25height=95px%25[[http://www.loria.fr/~dahman/img/a.jpg| http://www.loria.fr/~dahman/img/a.jpg"Proposal for the Loria Laboratory"]] %25height=95px%25[[http://www.loria.fr/~dahman/img/d.jpg| http://www.loria.fr/~dahman/img/d.jpg"Proposal for the Loria Laboratory"]]%0a%3c %0a---%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png"Proposal for the SCORE Team"]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png"Proposal for the SCORE Team"]]%25height=95px%25[[http://www.loria.fr/~dahman/img/a.jpg| http://www.loria.fr/~dahman/img/a.jpg"Proposal for the Loria Laboratory"]]%25height=95px%25[[http://www.loria.fr/~dahman/img/d.jpg| http://www.loria.fr/~dahman/img/d.jpg"Proposal for the Loria Laboratory"]]%0a> %0a
+host:1310548631=::1
+author:1310548611=
+diff:1310548611:1310547390:=
+host:1310548611=::1
+author:1310547390=
+diff:1310547390:1310547064:=7,8c7,8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png"Proposal for the SCORE Team"]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png"Proposal for the SCORE Team"]]%25height=95px%25[[http://www.loria.fr/~dahman/img/a.jpg| http://www.loria.fr/~dahman/img/a.jpg"Proposal for the Loria Laboratory"]]%25height=95px%25[[http://www.loria.fr/~dahman/img/d.jpg| http://www.loria.fr/~dahman/img/d.jpg"Proposal for the Loria Laboratory"]]%0a%3c %0a---%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png"Proposal for the SCORE Team"]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png"Proposal for the SCORE Team"]]%25height=95px%25[[http://www.loria.fr/~dahman/img/d.jpg| http://www.loria.fr/~dahman/img/d.jpg"Proposal for the Loria Laboratory"]]%0a> %0a
+host:1310547390=::1
+author:1310547064=
+diff:1310547064:1310546962:=7,8c7,8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png"Proposal for the SCORE Team"]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png"Proposal for the SCORE Team"]]%25height=95px%25[[http://www.loria.fr/~dahman/img/d.jpg| http://www.loria.fr/~dahman/img/d.jpg"Proposal for the Loria Laboratory"]]%0a%3c %0a---%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=95px%25http://www.loria.fr/~dahman/img/d.jpg%0a> %0a
+host:1310547064=::1
+author:1310546962=
+diff:1310546962:1310546951:=7,8c7,8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=95px%25http://www.loria.fr/~dahman/img/d.jpg%0a%3c %0a---%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=110px%25http://www.loria.fr/~dahman/img/d.jpg%0a> %0a
+host:1310546962=::1
+author:1310546951=
+diff:1310546951:1310546934:=7,8c7,8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=110px%25http://www.loria.fr/~dahman/img/d.jpg%0a%3c %0a---%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=100px%25http://www.loria.fr/~dahman/img/d.jpg%0a> %0a
+host:1310546951=::1
+author:1310546934=
+diff:1310546934:1310546923:=7,8c7,8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=100px%25http://www.loria.fr/~dahman/img/d.jpg%0a%3c %0a---%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=95px%25http://www.loria.fr/~dahman/img/d.jpg%0a> %0a
+host:1310546934=::1
+author:1310546923=
+diff:1310546923:1310546914:=7,8c7,8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=95px%25http://www.loria.fr/~dahman/img/d.jpg%0a%3c %0a---%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=95px%25[http://www.loria.fr/~dahman/img/d.jpg]%0a> %0a
+host:1310546923=::1
+author:1310546914=
+diff:1310546914:1310546834:=7,8c7,8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=95px%25[http://www.loria.fr/~dahman/img/d.jpg]%0a%3c %0a---%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/d.jpg]]%0a> %0a
+host:1310546914=::1
+author:1310546834=
+diff:1310546834:1310546817:=7,8c7,10%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]] %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/d.jpg]]%0a%3c %0a---%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]]%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%0a> %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/d.jpg]]%0a> %0a
+host:1310546834=::1
+author:1310546817=
+diff:1310546817:1310476933:=8,10c8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Logo.png]]%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/d.jpg]]%0a%3c %0a---%0a> %0a
+host:1310546817=::1
+author:1310476933=
+diff:1310476933:1310476891:=7,8c7,8%0a%3c %25height=95px%25[[http://score.loria.fr/|http://www.loria.fr/~dahman/img/Score.png]]%0a%3c %0a---%0a> %0a> %0a
+host:1310476933=::1
+author:1310476891=
+diff:1310476891:1271930057:=5,8d4%0a%3c !! My Logos%0a%3c %0a%3c %0a%3c %0a
+host:1310476891=::1
+author:1271930057=
+diff:1271930057:1255620417:=3,4c3,4%0a%3c %25center%25[[http://www.loria.fr/~dahman/img/Eiffel-full.jpeg | http://www.loria.fr/~dahman/img/Eiffel-medium.jpeg"Croque Tour Eiffel"]]|A 325 meter brownie !!%0a%3c %0a---%0a> %25center%25[[http://www.loria.fr/~dahmen/img/Eiffel-full.jpeg | http://www.loria.fr/~dahmen/img/Eiffel-medium.jpeg"Croque Tour Eiffel"]]|A 325 meter brownie !!%0a> %0a
+host:1271930057=::1
+author:1255620417=
+diff:1255620417:1255619717:=9c9,16%0a%3c %25right%25''"In every conceivable manner, the family is link to our past, bridge to our future"'' -  Alex Haley%0a\ No newline at end of file%0a---%0a> %25right%25''"In every conceivable manner, the family is link to our past, bridge to our future"'' -  Alex Haley%0a> (:html:)%0a> %3c!-- Begin Motigo Webstats counter code -->%0a> %3ca id="mws4674481" href="http://webstats.motigo.com/">%0a> %3cimg width="80" height="15" border="0" alt="Free counter and web stats" src="http://m1.webstats.motigo.com/n80x15.gif?id=AEdTsQ72fVhF0JnFBcqofLSJewAg" />%3c/a>%0a> %3cscript src="http://m1.webstats.motigo.com/c.js?id=4674481&amp;lang=FR&amp;i=3" type="text/javascript">%3c/script>%0a> %3c!-- End Motigo Webstats counter code -->%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1255620417=::1
+author:1255619717=
+diff:1255619717:1220895095:=9,16c9%0a%3c %25right%25''"In every conceivable manner, the family is link to our past, bridge to our future"'' -  Alex Haley%0a%3c (:html:)%0a%3c %3c!-- Begin Motigo Webstats counter code -->%0a%3c %3ca id="mws4674481" href="http://webstats.motigo.com/">%0a%3c %3cimg width="80" height="15" border="0" alt="Free counter and web stats" src="http://m1.webstats.motigo.com/n80x15.gif?id=AEdTsQ72fVhF0JnFBcqofLSJewAg" />%3c/a>%0a%3c %3cscript src="http://m1.webstats.motigo.com/c.js?id=4674481&amp;lang=FR&amp;i=3" type="text/javascript">%3c/script>%0a%3c %3c!-- End Motigo Webstats counter code -->%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> %25right%25''"In every conceivable manner, the family is link to our past, bridge to our future"'' -  Alex Haley%0a\ No newline at end of file%0a
+host:1255619717=::1
+author:1220895095=
+diff:1220895095:1220276235:=5,6c5%0a%3c !! The beginning and the end%0a%3c %0a---%0a> %0a
+host:1220895095=127.0.0.1
+author:1220276235=
+diff:1220276235:1220276235:=1,8d0%0a%3c (:title Me & Myself :)%0a%3c %0a%3c %25center%25[[http://www.loria.fr/~dahmen/img/Eiffel-full.jpeg | http://www.loria.fr/~dahmen/img/Eiffel-medium.jpeg"Croque Tour Eiffel"]]|A 325 meter brownie !!%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c %25right%25''"In every conceivable manner, the family is link to our past, bridge to our future"'' -  Alex Haley%0a\ No newline at end of file%0a
+host:1220276235=127.0.0.1
